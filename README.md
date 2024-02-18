@@ -1,4 +1,5 @@
 # okratabacos
 texto alterado pelo repósirio local
 
-texto via github web.
+texto via github web02
+
